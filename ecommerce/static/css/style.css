@@ -1,0 +1,25 @@
+body
+{
+background-color:#f58a42;
+font-family: 'Playfair Display', serif;
+
+}
+
+
+.x
+{
+height:40px;
+width:100%;
+background-color:white;
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+}
+.form-control
+{
+width:50%;}
+
+.table-bordered
+{
+border-color:red;}
